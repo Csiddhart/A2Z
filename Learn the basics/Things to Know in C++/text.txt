@@ -1,0 +1,13 @@
+BASICS:- 
+
+HOW TO WRITE BASIC PROGRAM 
+
+User Input / Output  :- https://practice.geeksforgeeks.org/problems/search-query-auto-complete/0?category%5B%5D=Strings&category%5B%5D=Strings&problemStatus=unsolved&difficulty%5B%5D=2&page=1&query=category%5B%5DStringsproblemStatusunsolveddifficulty%5B%5D2page1category%5B%5DStrings
+Data Types   :- https://bit.ly/3Dqmgvx
+If Else statements  :-  https://practice.geeksforgeeks.org/problems/java-if-else-decision-making0924/0?category%5B%5D=Java&category%5B%5D=Java&difficulty%5B%5D=-2&page=1&query=category%5B%5DJavadifficulty%5B%5D-2page1category%5B%5DJava
+Switch Statement :-  https://practice.geeksforgeeks.org/problems/java-switch-case-statement3529/1
+What are arrays, strings?
+For loops  :-  https://practice.geeksforgeeks.org/problems/for-loop-primecheck-java/1
+While loops
+Functions (Pass by Reference and Value)
+Time Complexity [Learn Basics, and then analyse in next Steps]
