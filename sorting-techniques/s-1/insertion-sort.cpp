@@ -18,16 +18,19 @@ class Solution
 {
     public:
     void insert(int arr[], int i)
-    {
+    {    //fetch
        int temp=arr[i];
         int j;
+        //compare
        for(j=i-1;j>=0;j--){
            if(temp<arr[j]){
+               //shift
                arr[j+1]=arr[j];
            }else{
                break;
            }
        }
+        //copy
        arr[j+1]=temp;
     }
      public:
