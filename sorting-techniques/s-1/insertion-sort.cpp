@@ -20,15 +20,15 @@ class Solution
     void insert(int arr[], int i)
     {
        int temp=arr[i];
-       for(int j=i-1;j>=0;j--){
+        int j;
+       for(j=i-1;j>=0;j--){
            if(temp<arr[j]){
-               arr[i]=arr[j];
-               i--;
+               arr[j+1]=arr[j];
            }else{
                break;
            }
        }
-       arr[i]=temp;
+       arr[j+1]=temp;
     }
      public:
     //Function to sort the array using insertion sort algorithm.
